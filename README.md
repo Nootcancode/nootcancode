@@ -7,7 +7,7 @@
 ### Personal Projects 🐸👾
 
 ### GitHub stats 🦸‍♂️
-[![Nootcancode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nootcancode)](https://github.com/anuraghazra/github-readme-stats)
+![Nootcancode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nootcancode&count_private=true)
 
 <!--
 
