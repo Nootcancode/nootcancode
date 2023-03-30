@@ -6,7 +6,7 @@
 
 ### Personal Projects 🐸👾
 
-### GitHub stats 🦸‍♂️
+### GitHub Stats 🦸‍♂️
 ![Nootcancode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nootcancode&count_private=true)
 
 <!--
