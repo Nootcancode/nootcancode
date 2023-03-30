@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 🤠
 
-### About 🧐👨‍💻
+### About 🧑‍💻
 
-### Technologies + Specialization(s) 🥷
+### Technologies + Specialization(s) 🎨
 
-### Personal Projects 🧪
+### Personal Projects 🐸👾
 
 
 <!--
