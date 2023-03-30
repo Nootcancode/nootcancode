@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Building my portfolio and some personal projects right now.....stand by!
-
 ### About 🧐👨‍💻
 
 ### Technologies + Specialization(s) 🥷
