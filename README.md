@@ -2,7 +2,7 @@
 
 Building my portfolio and some personal projects right now.....stand by!
 
-### About me! 🧐👨‍💻
+### About 🧐👨‍💻
 
 ### Technologies + Specialization(s) 🥷
 
