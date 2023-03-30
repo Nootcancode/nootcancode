@@ -1,12 +1,12 @@
-### Howdy 🤠
+## Howdy! 🤠
 
-## About 🧑‍💻
+### About 🧑‍💻
 
-## Technologies + Specialization(s) 🎨
+### Technologies + Specialization(s) 🎨
 
-## Personal Projects 🐸👾
+### Personal Projects 🐸👾
 
-## GitHub Stats 🦸‍♂️
+### GitHub Stats 🦸‍♂️
 ![Nootcancode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nootcancode&count_private=true&how_icons=true&theme=cobalt)
 
 <!--
