@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Building my portfolio and some personal projects right now.....stand by!
+
+### About me! 🧐👨‍💻
+
+### Technologies + Specialization(s) 🥷
+
+### Personal Projects 🧪
+
+
 <!--
 **Nootcancode/nootcancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
