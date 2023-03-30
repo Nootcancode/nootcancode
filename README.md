@@ -4,7 +4,7 @@
 
 ### Specialization(s) + Technologies + Interests 🎨
 
-Professional Specialization:
+Professional Specialization(s):
 
 ![](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) Stack
 
