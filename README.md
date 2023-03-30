@@ -6,6 +6,11 @@
 
 ### Personal Projects 🐸👾
 
+### GitHub stats 🦸‍♂️
+[![Nootcancode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nootcancode)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+
 
 <!--
 **Nootcancode/nootcancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
