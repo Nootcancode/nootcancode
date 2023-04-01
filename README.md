@@ -36,6 +36,10 @@ Interests:
 
 ### Personal Projects 🐸👾
 
+### Cyber/Bug Bounties 🥷
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/nootcancode.png" alt="TryHackMe">
+
 ### GitHub Stats 🦸‍♂️
 ![Nootcancode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nootcancode&count_private=true&how_icons=true&theme=cobalt)
 
